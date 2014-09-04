@@ -1,4 +1,4 @@
 operation-octo-extract
 ======================
 
-is a go!
+is a go?
